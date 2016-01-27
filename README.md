@@ -24,5 +24,11 @@ The TAT attempts to solve this problem by automating the process of team formati
 
 
 ## License & Authors
+Shannan Galbraith s3288053@student.rmit.edu.au
+Stephen Nicolas s3395568@student.rmit.edu.au
+Steven Maynard s3397906@student.rmit.edu.au
+Arash Rostami s3203792@student.rmit.edu.au
+Jakub Romanak s3413331@student.rmit.edu.au
+Bradley Davis s3390039@student.rmit.edu.au
 
 
